@@ -190,7 +190,7 @@ export default function Contact() {
                     <ToastContainer />
                     <ReCAPTCHA
                       className="w-full"
-                      sitekey="6Lc4FuskAAAAAIWyP1wsE1KwJt5YV30bnpoY9nSc"
+                      sitekey="6Lc4FuskAAAAAFanmdMOdMF4lfkO7xqkKBRtttdU"
                       onChange={onChange}
                     />
                   </div>
