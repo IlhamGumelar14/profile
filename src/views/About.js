@@ -1,6 +1,6 @@
 import React from 'react';
 import Fade from 'react-reveal/Fade';
-import User from '../assets/img/asmin.png (2)';
+import User from '../assets/img/ilham.png';
 
 export default function About() {
   return (
