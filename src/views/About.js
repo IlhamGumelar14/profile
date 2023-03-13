@@ -10,11 +10,11 @@ export default function About() {
           <div className="w-full h-full">
             <div className="relative w-full h-[30rem] overflow-hidden">
               <Fade bottom>
-                <div className="absolute w-full h-full bg-yellow-500">
+                <div className="absolute w-full h-full bg-yellow-400">
                   <img
                     src={User}
                     alt="Profile"
-                    className="w-[60%] md:flex scale-85 object-top pt-10 object-cover mx-auto grayscale"
+                    className="w-[60%] md:flex-auto scale-85 object-top pt-10 object-cover mx-auto grayscale"
                   />
                 </div>
               </Fade>
