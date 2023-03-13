@@ -14,7 +14,7 @@ export default function About() {
                   <img
                     src={User}
                     alt="Profile"
-                    className="w-[95%] h-full scale-100 object-bottom pt-8 object-cover mx-auto"
+                    className="w-[100%] h-full scale-100 object-bottom pt-8 ml-3 object-cover mx-auto"
                   />
                 </div>
               </Fade>
