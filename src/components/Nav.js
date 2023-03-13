@@ -57,7 +57,7 @@ export default function Nav() {
                 } absolute top-0 transition-all duration-200`}
               />
             </button>
-            <h1 className="text-center text-3xl font-bold">Asmin</h1>
+            <h1 className="text-center text-3xl font-bold">Ilham</h1>
           </div>
         </div>
         <div
